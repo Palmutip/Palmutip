@@ -1,6 +1,10 @@
 ## Olá! 👋 Eu sou Pedro Palmuti
 Bacharel em Ciência da Computação | Desenvolvedor Back-end
 <br>
+GitHub utilizado apenas para armazenar projetos pessoais.
+<br>
+Por isso a baixa quantidade de commits.
+<br>
 <div>
   <a href="https://www.youtube.com/Palmutip" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/Palmutip" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
