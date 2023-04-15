@@ -4,9 +4,6 @@ Bacharel em Ciência da Computação | MBA em Gestão Estratégica de Projetos e
   Este repositório está sendo utilizado apenas a título de portfolio. Projetos grandes que atuo no mercado de trabalho são versionados em rede local.
 </p>
 <div>
-  <a href="https://www.youtube.com/Palmutip" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/Palmutip" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:palmutip@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/palmutip" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
